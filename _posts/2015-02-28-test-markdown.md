@@ -10,9 +10,7 @@ I'm Shivam Pawar, part of RIT India Linux User's Group (RITINLUG) in our college
 Our tag-line explains about us, which says “Where Learning is Fun and Sharing is a Learning Methodology”
 As a student, I use only F/OSS softwares for my curriculum as well as any another activities in our college so that whenever I need source code of any software it is easily available. 
 
-**Here is some bold text**
-
-## Here is a secondary heading
+## First Discussion :
 
 Here's a useless table:
 
