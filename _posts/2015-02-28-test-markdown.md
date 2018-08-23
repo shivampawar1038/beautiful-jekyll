@@ -6,8 +6,9 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
-
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+I'm Shivam Pawar, part of RIT India Linux User's Group (RITINLUG) in our college.
+Our tag-line explains about us, which says “Where Learning is Fun and Sharing is a Learning Methodology”
+As a student, I use only F/OSS softwares for my curriculum as well as any another activities in our college so that whenever I need source code of any software it is easily available. 
 
 **Here is some bold text**
 
