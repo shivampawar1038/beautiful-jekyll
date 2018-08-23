@@ -11,20 +11,7 @@ Our tag-line explains about us, which says “Where Learning is Fun and Sharing 
 As a student, I use only F/OSS softwares for my curriculum as well as any another activities in our college so that whenever I need source code of any software it is easily available. 
 
 ## First Discussion :
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+#![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Here's a code chunk:
 
