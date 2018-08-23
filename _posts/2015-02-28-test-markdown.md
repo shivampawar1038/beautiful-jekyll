@@ -2,8 +2,8 @@
 layout: post
 title: Introduction to Open Source
 subtitle: A brief history and meaning of Open Source
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+#gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
 tags: [test]
 ---
 I'm Shivam Pawar, part of RIT India Linux User's Group (RITINLUG) in our college.
